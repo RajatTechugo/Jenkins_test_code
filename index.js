@@ -9,7 +9,7 @@ console.log(greeting);
 let currentTime = new Date();
 console.log("Current time is: " + currentTime.toLocaleTimeString());
 
-let user = process.env.USER || "Guest";
+let user = process.env.NAME || "Guest";
 console.log(`Hello, ${user}!`);
 console.log(`Running in ${process.env.ENVIRONMENT} environment.`);
 console.log("Environment variables loaded successfully.");
