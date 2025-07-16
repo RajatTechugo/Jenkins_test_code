@@ -16,5 +16,8 @@
     "url": "https://github.com/RajatTechugo/Jenkins_test_code/issues"
   },
   "homepage": "https://github.com/RajatTechugo/Jenkins_test_code#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.0"
+  }
 }
