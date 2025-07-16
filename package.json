@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RajatTechugo/Jenkins_test_code#readme",
   "description": "",
   "dependencies": {
-    "dotenv": "^17.2.0"
+    "dotenv": "^17.2.0",
+    "nodemon": "^3.1.10"
   }
 }
