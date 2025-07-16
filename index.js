@@ -15,4 +15,4 @@ console.log(`Running in ${process.env.ENVIRONMENT} environment.`);
 let formattedDate = moment().format("MMMM Do YYYY, h:mm:ss a");
 console.log(`Formatted date: ${formattedDate}`);
 
-console.log("Done success");
+console.log("Done success ok");
