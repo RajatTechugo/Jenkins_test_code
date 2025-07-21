@@ -2,7 +2,7 @@ import moment from "moment";
 import dotenv from "dotenv";
 dotenv.config();
 
-let greeting = "Welcome to the Jenkins Node.js application!";
+let greeting = "Welcome to the Jenkins Node.js application!-----";
 console.log(greeting);
 
 let currentTime = new Date();
